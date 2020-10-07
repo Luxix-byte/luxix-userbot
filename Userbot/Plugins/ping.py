@@ -1,4 +1,4 @@
-# special thanks to @Xditya 
+# special thanks to @Luxix_nxo_18 , @paranormal_s
 # Re-written for Luxix-userbot by @Dark047
 
 from telethon import events

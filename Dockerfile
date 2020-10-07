@@ -59,5 +59,5 @@ RUN mkdir /root/userbot/bin/
 WORKDIR /root/userbot/
 RUN chmod +x /usr/local/bin/*
 RUN pip3 install -r requirements.txt
-# (c) 2020 TeleBot, by @vishnu175, @its_xditya
+# (c) 2020 Luxix-userbot, by @Luxix_nxo_18, @Dark047
 CMD ["bash","startup.sh"]

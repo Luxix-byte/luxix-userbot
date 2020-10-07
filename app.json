@@ -1,16 +1,16 @@
 {
- "name": "Luxixbot" - UserBot",
- "description": "An advanced Python userbot, from @LuxixSupport",
- "logo": "https://telegra.ph/file/c7ef78ddca3da39696a95.jpg",
+ "name": "Luxix - UserBot",
+ "description": "An advanced Telethon Userbot, from @LUXIXSUPPORT",
+ "logo": "https://telegra.ph/file/98ac546e43e090c61d7e6.jpg",
  "keywords": [
   "telegram",
   "userbot",
-  "TeleBot",
+  "Luxix",
   "modular",
   "productivity"
  ],
- "repository": "https://github.com/Luxix-byte/luxix-userbot/",
- "success_url": "https://t.me/Luxixbot13",
+ "repository": "https://github.com/Luxix-byte/Luxix-userbot/",
+ "success_url": "https://t.me/LuxixSupport/1",
  "stack": "container",
  "env": {
   "ENV": {
@@ -31,17 +31,13 @@
    "value": ""
   },
   "STRING_SESSION": {
-   "description": "Get this value by running python3 telesetup.py locally or https://generatestringsession-1.luxixbyte.repl.run/.",
+   "description": "Get this value by running python3 luxixsetup.py locally or https://GenerateStringSession-1.luxixbyte.repl.run.",
    "value": ""
   },  
   "CUSTOM_PMPERMIT": {
    "description": "The message that appears when someone PM's you. Leave it as such for default message.",
    "value": "Do not spam here, else you will be blocked automatically."
   },  
-  "CUSTOM_AFK": {
-   "description": "The message that appears when you go afk. Leave it as such for default.",
-   "value": "My Master is [AFK](https://telegra.ph/AFK-05-22)"
-  },
   "GITHUB_ACCESS_TOKEN": {
    "description": "Your Github Access Token for gitcommit plugin.Google 'Github access token' to find.",
    "value": "",
@@ -58,7 +54,7 @@
    "required": false
   },  
   "GIT_REPO_NAME": {
-   "description": "Your repo name Example: luxix/luxixBot, but GITHUB_ACCESS_TOKEN must be setup first.",
+   "description": "Your repo name Example: Luxix-byte/Luxix-userbot, but GITHUB_ACCESS_TOKEN must be setup first.",
    "value": "",
    "required": false
   },
@@ -88,7 +84,7 @@
    "required": false
   },
   "PRIVATE_GROUP_BOT_API_ID": {
-   "description": "Must read https://telegra.ph/TeleBot-Setup-06-06 for knowing how to get the value. Required for pmpermit.",
+   "description": "Add Any bot to your private group and send /id to get this I'd.",
    "value": "",
    "required": true
   },

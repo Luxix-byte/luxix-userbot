@@ -37,7 +37,11 @@ def get_readable_time(seconds: int) -> str:
 
 uptime = get_readable_time((time.time() - Lastupdate))
 DEFAULTUSER = str(LUXIX_NAME) if LUXIX_NAME else "Unknown"
-PM_IMG = "https://telegra.ph/file/54114c13eb10a585216c1.jpg"
+PM_IMG = "https://telegra.ph/file/8a56360a3bf7e64f9d8d0.jpg"'
+"https://telegra.ph/file/f1891bdd10dca16400214.jpg"'
+"https://telegra.ph/file/2da5eeb4a8be3f12b8f8e.jpg"'
+"https://telegra.ph/file/1a4577d83256da44d5f9d.jpg"'
+"https://telegra.ph/file/a4d7263daf517cfd20014.jpg"']
 pm_caption = "🟢 **MADE IN 🇳🇪 MADE FOR LUXIX**\n\n"
 pm_caption += "🔵 **SYSTEMS STATS**\n"
 pm_caption += "🟢 `Telethon Version:` **1.15.0** \n"

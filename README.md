@@ -17,7 +17,7 @@ https://t.me/LUXIXSUPPORT) for updates and new plugin suggestions.
 Do fork and star the repo 
 
 ### Session String 
-<a href="https://repl.it/Luxixbyte/GenerateStringSession-1" target="_blank"><img src="https://img.shields.io/badge/run-string__session.py-red?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/run-string__session.py-red?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>
 
 ### The Normal Way
 
